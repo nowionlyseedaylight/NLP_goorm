@@ -10,4 +10,6 @@ def my_range(stop):
 for i in my_range(5):
     print(i)
     
+# sequence 전체를 생성하는 것이 아니므로 메모리 효율적, 매우 큰 데이터셋 처리할 땐 generator 사용 권장
+
 even_generator = (i*2 for i in range(100))    # 괄호로 generator comprehension 형태로 선언 가능
