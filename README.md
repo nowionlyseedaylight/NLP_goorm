@@ -1,5 +1,5 @@
 # NLP_goorm
-This repository is created to record what I leared from KASIT X GOORM NLP Bootcamp.
+This repository is created to record what I leared from KAIST X GOORM NLP Bootcamp.
 
 ## What I studied
 1. Python basics
