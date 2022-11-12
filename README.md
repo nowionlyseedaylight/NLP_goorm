@@ -1,7 +1,7 @@
 # NLP_goorm
 This repository is created to record what I leared from KAIST X GOORM NLP Bootcamp.
 
-## What I studied
+## What I learned and studied
 1. Python basics
 2. Linear Algebra
 3. Machine Learning
